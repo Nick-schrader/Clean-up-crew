@@ -6,7 +6,7 @@ Deze game is gemaakt om te leren over afval scheiding doormiddel van een leuke, 
 
 Kopieer de git repo naar een lokale folder.
 ```bash
-git clone https://github.com/AventusCT/2025-2-city-cleanup-game-of-plan-it-clean-up-crew.git 
+git clone https://github.com/Nick-schrader/Clean-up-crew.git 
 ```
 Om dit project lokaal werkend te krijgen heb je [NodeJS](https://nodejs.org/en) nodig. Run de volgende commando voor de Node dependencies. 
 Daarna start je een eigen developer server op.
