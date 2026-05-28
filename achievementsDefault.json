@@ -1,0 +1,155 @@
+{
+    "tienGoed": {
+        "title": "10 goed!",
+        "desc": "Sorteer 10 items correct",
+        "unlocked": false,
+        "creds": 15,
+        "secret": false,
+        "iconName": "+10"
+    },
+    "honderdGoed": {
+        "title": "100 goed!!!!",
+        "desc": "Bereik 100 correcte sorteringen",
+        "unlocked": false,
+        "creds": 75,
+        "secret": false,
+        "iconName": "100-goed"
+    },
+    "vijfhonderdGoed": {
+        "title": "500 goed!!!!!!!",
+        "desc": "Bereik 500 correcte sorteringen",
+        "unlocked": false,
+        "creds": 350,
+        "secret": false,
+        "iconName": "500-goed"
+    },
+    "duizendvijfhonderdGoed": {
+        "title": "no life?",
+        "desc": "Bereik 1500 correcte sorteringen",
+        "unlocked": false,
+        "creds": 550,
+        "secret": false,
+        "iconName": "1500-goed"
+    },
+    "honderdSlecht": {
+        "title": "100 slecht!?!?",
+        "desc": "Maak 100 foute sorteringen (secret)",
+        "unlocked": false,
+        "creds": -350,
+        "secret": true,
+        "iconName": "100-slecht"
+    },
+    "eersteUpgrade": {
+        "title": "Schiet goed op!",
+        "desc": "Koop je eerste upgrade",
+        "unlocked": false,
+        "creds": 10,
+        "secret": false,
+        "iconName": "getting-better"
+    },
+    "eersteSkin": {
+        "title": "Een nieuw uiterlijk!",
+        "desc": "Koop je eerste skin",
+        "unlocked": false,
+        "creds": 25,
+        "secret": false,
+        "iconName": "a-new-look"
+    },
+    "volleUpgradeBar": {
+        "title": "Professionele vuilnisman!",
+        "desc": "Upgrade tenminste 1 upgrade-bar volledig",
+        "unlocked": false,
+        "creds": 40,
+        "secret": false,
+        "iconName": "pro-garbage-man"
+    },
+    "alleVolleUpgradeBars": {
+        "title": "Volledig geüpgraded!",
+        "desc": "Upgrade ALLE upgrade-bars volledig",
+        "unlocked": false,
+        "creds": 100,
+        "secret": false,
+        "iconName": "fully-upgraded"
+    },
+    "beltBarCompleet": {
+        "title": "Lopende band meester!",
+        "desc": "Upgrade de belt-bar volledig.",
+        "unlocked": false,
+        "creds": 20,
+        "secret": false
+    },
+    "spawnRateBarCompleet": {
+        "title": "Spawn snelheid expert!",
+        "desc": "Upgrade de spawn-rate-bar volledig.",
+        "unlocked": false,
+        "creds": 20,
+        "secret": false
+    },
+    "inventoryBarCompleet": {
+        "title": "Inventory koning!",
+        "desc": "Upgrade de inventory-bar volledig.",
+        "unlocked": false,
+        "creds": 20,
+        "secret": false,
+        "iconName": "inv-koning"
+        
+    },
+    "pickupBarCompleet": {
+        "title": "Oppak professional!",
+        "desc": "Upgrade de pickup-bar volledig.",
+        "unlocked": false,
+        "creds": 20,
+        "secret": false,
+        "iconName": "oppak-pro"
+    },
+    "recycleBarCompleet": {
+        "title": "Recycle held!",
+        "desc": "Upgrade de recycle-bar volledig.",
+        "unlocked": false,
+        "creds": 20,
+        "secret": false,
+        "iconName": "recycle-held"
+
+    },
+    "milan": {
+        "title": "Wie is dit?",
+        "desc": "Ontgrendel de great big Kaan",
+        "lockedDesc": "Ontgrendel ??????????",
+        "unlocked": false,
+        "creds": 999,
+        "secret": false,
+        "iconName": "who-is-this",
+        "secretIcon": true
+    },
+    "upgradeSpecialist": {
+        "title": "Upgrade Specialist",
+        "desc": "Koop een upgrade uit elke upgrade-bar.",
+        "unlocked": false,
+        "creds": 30,
+        "secret": false
+    },
+    "upgradeVerslaafd": {
+        "title": "Upgrade Verslaafd",
+        "desc": "Koop 10 upgrades in totaal.",
+        "unlocked": false,
+        "creds": 25,
+        "secret": false
+    },
+    "geldbaas": {
+        "title": "Geld baas",
+        "desc": "Bereik 10.000 geld.",
+        "unlocked": false,
+        "creds": 50,
+        "secret": false,
+        "iconName": "geld-baas"
+
+    },
+    "comboKing": {
+        "title": "Combo king",
+        "desc": "sorteer 20 items achter elkaar correct.",
+        "unlocked": false,
+        "creds": 50,
+        "secret": false,
+        "iconName": "combo-king"
+    }
+}

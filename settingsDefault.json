@@ -1,0 +1,18 @@
+{
+    "soundOn": true,
+    "volume": 70,
+    "controls": {
+        "up": "w",
+        "upAlt": "space",
+        "down": "s",
+        "downAlt": "down",
+        "left": "a",
+        "leftAlt": "left",
+        "right": "d",
+        "rightAlt": "right",
+        "pickup": "e",
+        "pickupAlt": "",
+        "recycle": "e",
+        "recycleAlt": ""
+    }
+}
